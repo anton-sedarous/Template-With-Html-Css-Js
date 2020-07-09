@@ -21,7 +21,7 @@ height: 3000px;
     top:0;
     background-color: #fff;
     width: 200px;
-    z-index: 1000;
+    z-index: 10000;
     min-height: 100vh;
     transition: .3s;
     border: 1px solid #EEE;
